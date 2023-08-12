@@ -1,1 +1,2 @@
 This is the first feature of our app
+This is the bug fix in the devlopment branch
