@@ -1,3 +1,4 @@
 This is the first feature of our app
 This is the bug fix in the devlopment branch
 This is gadbad code
+This will gadbad everything from now
